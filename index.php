@@ -9,8 +9,13 @@
 	<title>Enjoy</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	
-	<!--Fucking css :) -->
+	<!--Fucking global css :) -->
 	<link rel="stylesheet" type="text/css" href="css/enjoy.css">
+	<!-- css to header menu -->
+	<link type= "text/css" href="css/menu.css" rel= "stylesheet" /> 
+	<!-- scripts js to header men menu -->
+	<!--<script type= "text/javascript" src= "css/jquery.js" />  
+	<script type= "text/javascript" src= "css/menu.js" /> -->
 </head>
 
 <body>
