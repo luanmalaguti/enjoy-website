@@ -24,6 +24,7 @@ div#menu {
     height:41px;
     background:url(../image/main-bg.png) repeat-x;
     border-radius: 8px;
+     
 }
 
 div#menu ul {
@@ -31,6 +32,9 @@ div#menu ul {
     padding: 0;
     list-style: none;
     float: left;
+    //border: solid 1px;
+    margin-left: 30%;
+   
 }
 div#menu ul.menu {
     padding-left: 30px;
@@ -147,6 +151,7 @@ div#menu li.back .left {
     background: url(../image/lava.png) no-repeat top left !important;
     background-image: url(../image/lava.gif);
     height: 44px;
-    margin-right: 8px;
 }
+
+
 
