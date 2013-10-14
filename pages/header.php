@@ -16,7 +16,12 @@
 <div id="all">
 
 	<div id="header" class="header">
-		
+		<div id="busca">
+			<input type="text" id="boxBuscar" placeholder="Buscar..." />
+			<div id="lupa">
+				<img style="width: 40px;" src="../image/search-bt.png" />
+			</div>
+		</div>
 	</div>
 	
 	<? include "menubar.php"; ?>
