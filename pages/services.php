@@ -1,3 +1,3 @@
 <? include "header.php" ?>
-<h1>Contato</h1>
+<h1>Serviços</h1>
 <? include "footer.php" ?>
