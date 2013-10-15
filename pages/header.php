@@ -16,14 +16,17 @@
 <div id="all">
 
 	<div id="header" class="header">
-		<div id="busca">
-			<input type="text" id="boxBuscar" placeholder="Buscar..." />
-			<div id="lupa">
-				<img style="width: 40px;" src="../image/search-bt.png" />
-			</div>
-		</div>
+		<!-- Insert login form -->
+		<? include "login.php"; ?>
+		<!-- insert search form -->
+		<? include "busca.php"; ?>
+		
+		<img id="imgLogo" src="../image/enjoy-transparent.png"/>
+		<div id="bottle"></div>
 	</div>
 	
+	<!-- insert div that has menu items -->
 	<? include "menubar.php"; ?>
 	
+	<!-- begin of content center -->
 	<div id="content" class="content">

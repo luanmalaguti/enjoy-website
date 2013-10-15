@@ -1,3 +1,4 @@
+		<!-- end of content center -->
 		</div>
 		
 		<div id="footer" class="footer">
